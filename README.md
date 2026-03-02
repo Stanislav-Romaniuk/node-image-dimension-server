@@ -12,5 +12,5 @@ Simple HTTP server built with Node.js that validates image dimensions via URL pa
 
 ## 📦 Installation
 Clone repository:
-````git clone https://github.com/your-username/node-image-dimension-server.git````
+```git clone https://github.com/your-username/node-image-dimension-server.git```
 
